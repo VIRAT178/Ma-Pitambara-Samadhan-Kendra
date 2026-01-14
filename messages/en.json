@@ -1,0 +1,84 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "certificates": "Certificates",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "header": {
+    "name": "Pandit Shubham",
+    "phone": "+91 9522748858",
+    "email": "mapitambarasamadhan@gmail.com",
+    "bookAppointment": "Book appointment",
+    "whatsapp": "WhatsApp"
+  },
+  "hero": {
+    "title": "Pandit",
+    "titleHighlight": "Shubham Sharma",
+    "subtitle": "Business Growth Guidance",
+    "location": "Astrologer in Indore - India",
+    "callButton": "+91 9479908066",
+    "appointmentButton": "Book appointment"
+  },
+  "about": {
+    "title": "About Pandit Shubham Sharma",
+    "description": "With over 15 years of experience in Vedic astrology, Pandit Shubham Sharma has helped thousands of clients overcome their challenges and achieve prosperity.",
+    "expertise": "Areas of Expertise",
+    "vedic": "Vedic Astrology",
+    "palmReading": "Palm Reading",
+    "blackMagic": "Black Magic Removal",
+    "businessGuidance": "Business Guidance",
+    "familyProblems": "Family Problems",
+    "psychicReading": "Psychic Reading"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive spiritual guidance for all life challenges",
+    "businessConsultation": "Business Consultation",
+    "businessDesc": "Get guidance on business growth, decision making, and overcoming obstacles.",
+    "familyGuidance": "Family Guidance",
+    "familyDesc": "Resolve family conflicts, relationship issues, and bring harmony to your home.",
+    "blackMagicRemoval": "Black Magic Removal",
+    "blackMagicDesc": "Professional services to remove negative energies and black magic effects.",
+    "palmReading": "Palm Reading",
+    "palmReadingDesc": "Discover your future and life path through ancient palm reading techniques.",
+    "psychicReading": "Psychic Reading",
+    "psychicDesc": "Get insights into your past, present, and future with psychic guidance.",
+    "vedics": "Vedic Astrology",
+    "vedicsDesc": "Traditional Vedic astrological consultations for life guidance and remedies."
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real stories from people whose lives have been transformed"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have questions? We're here to help!",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Available Hours"
+  },
+  "footer": {
+    "copyright": "© 2024 Maa Pitambara Samadhan Kendra. All rights reserved.",
+    "disclaimer": "Disclaimer: The services provided are for educational and entertainment purposes only.",
+    "followUs": "Follow Us"
+  },
+  "language": {
+    "english": "English",
+    "hindi": "हिंदी"
+  }
+}

@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+
+# Host
+Host: https://pitambarasamadhanastro.co.in
+
+# Sitemaps
+Sitemap: https://pitambarasamadhanastro.co.in/sitemap.xml
